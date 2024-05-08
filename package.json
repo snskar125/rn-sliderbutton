@@ -1,0 +1,28 @@
+{
+  "name": "@snskar125/rn-sliderbutton",
+  "version": "1.0.0",
+  "description": "Slider Button Component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snskar125/rn-sliderbutton.git"
+  },
+  "keywords": [
+    "slider",
+    "react-native",
+    "android",
+    "ios",
+    "slide",
+    "swipe",
+    "button"
+  ],
+  "author": "snskar125",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snskar125/rn-sliderbutton/issues"
+  },
+  "homepage": "https://github.com/snskar125/rn-sliderbutton#readme"
+}
